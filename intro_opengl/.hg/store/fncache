@@ -1,0 +1,8 @@
+data/src/shape.rs.i
+data/src/scenes.rs.i
+data/src/shaders.rs.i
+data/.hgignore.i
+data/Cargo.toml.i
+data/src/emscripten.rs.i
+data/LICENSE.i
+data/src/main.rs.i

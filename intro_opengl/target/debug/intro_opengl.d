@@ -1,0 +1,1 @@
+/Users/paromitadatta/Desktop/intro_opengl/target/debug/intro_opengl.dSYM: /Users/paromitadatta/Desktop/intro_opengl/src/main.rs /Users/paromitadatta/Desktop/intro_opengl/src/scenes.rs /Users/paromitadatta/Desktop/intro_opengl/src/shaders.rs /Users/paromitadatta/Desktop/intro_opengl/src/shape.rs
